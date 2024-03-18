@@ -1,2 +1,3 @@
-# Projet4_OCR_final
-Here is the repos of my project4 (OpenClassRooms)
+# OCR_Project4 (D. Desoubzdanne-Dumont le 10/02/2023)
+**Anticipez les besoins en consommation de bâtiments**
+## Projet OpenClassroom parcours Data Scientist
